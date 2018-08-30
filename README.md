@@ -15,3 +15,4 @@ Computer Architecture/Machine Level Programming, Advanced Programming Techniques
 
 ???- Planning/Sticking to it
 
+hello!
